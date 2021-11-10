@@ -20,6 +20,3 @@ bool result = new TurkishIdentityValidator(new IdentityModel{
   DateOfBirth = DateTime.Parse("01-01-1881")
 }).IsValid();
 ```
-# Lisans
-
-MIT
