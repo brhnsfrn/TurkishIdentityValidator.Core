@@ -1,0 +1,1 @@
+# TurkishIdentityValidator.Core
